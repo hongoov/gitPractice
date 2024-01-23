@@ -1,1 +1,2 @@
-git clone first time!! --> updated visang
+git clone first time!! --> updated home
+                        --> updated visang
